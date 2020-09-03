@@ -8,3 +8,6 @@ Then I recommend copy-pasting the contents of `analysis.py` into a python REPL l
 ## Maintenance
 I've gotten what I wanted out of this script, so I'm not looking to maintain it.
 However, if you think it's neat and want to improve it, I'd be happy to help you out.
+## Disclaimer
+I initially created this project for personal use, so it doesn't follow best coding practices.
+Also, it might break if the NYU Classes website UI changes at all.
